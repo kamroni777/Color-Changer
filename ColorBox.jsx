@@ -1,4 +1,4 @@
-// components/ColorBox/ColorBox.jsx
+
 import React from 'react';
 import './ColorBox.css';
 
