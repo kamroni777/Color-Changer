@@ -1,4 +1,4 @@
-// components/ColorChanger/ColorChanger.jsx
+
 import React, { useState } from 'react';
 import ColorBox from '../ColorBox';
 import ColorButton from '../ColorButton';
