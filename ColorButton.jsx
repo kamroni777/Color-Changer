@@ -1,4 +1,4 @@
-// components/ColorButton/ColorButton.jsx
+
 import React from 'react';
 import './ColorButton.css';
 
